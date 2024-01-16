@@ -1,6 +1,10 @@
 # Physics-informed Neural Network (PINNs)
  
-Tested PINNs for ODEs/System ODEs and some basic PDEs
+Tested PINNs for ODEs/System ODEs and some basic PDEs. 
+
+Similar to other regularization methods, the idea of PINNs is to estimate the solution by neural network and return it to ODEs/PDEs in order to optimize the residual to zero.
+
+Thus far, PINNs have proven to be successful due to their quick computation speed and simplicity of usage. On the other hand, it struggles with equations that have high frequencies and require large amounts of data.
 
 # References:
 
