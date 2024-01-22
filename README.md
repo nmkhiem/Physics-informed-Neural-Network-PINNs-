@@ -1,4 +1,4 @@
-# Physics-informed Neural Network (PINNs)
+# Introduction
  
 Physics-Informed Neural Networks (PINNs) are a new and exciting approach to tackling a wide variety of problems especially related to solving Ordinary Differential Equations (ODEs), System ODEs, and some elementary Partial Differential Equations (PDEs). The core of PINNs is similar to traditional regularization techniques; neural networks are used to estimate solutions and improve the ODE/PDE residual to zero.
 
